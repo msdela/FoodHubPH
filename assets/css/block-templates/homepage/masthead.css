@@ -1,0 +1,22 @@
+.masthead-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.masthead-content {
+  max-width: 542px;
+  width: 100%;
+}
+
+.masthead-content h1 {
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 80px;
+  margin-bottom: 30px;
+}
+
+.masthead-images {
+  max-width: 556px;
+  width: 100%;
+}
