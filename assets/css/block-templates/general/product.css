@@ -1,3 +1,7 @@
+ .product-inner {
+     padding-bottom: 0;
+ }
+
 .product-contents {
   display: flex;
   flex-wrap: wrap;
